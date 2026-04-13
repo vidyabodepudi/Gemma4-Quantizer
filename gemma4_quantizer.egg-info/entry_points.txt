@@ -1,0 +1,2 @@
+[console_scripts]
+quantize-gemma4 = gemma4_quant.cli:main
